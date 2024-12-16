@@ -8,7 +8,7 @@ bool isPrime(int num) {
     }
     return true;
 }
-
+ 
 vector<int> rearrangeArray(vector<int> arr) {
     vector<int> primes, rest;
     int largestPrime = INT_MIN, smallestPrime = INT_MAX;
